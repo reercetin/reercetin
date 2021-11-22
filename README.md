@@ -1,6 +1,7 @@
 ### Selam👋, Ben Recep Emre
 #### Web Yazılım, UX,UI Tasarım ve Dijital Medya Uzmanlığı ve Eğitmenlik Yapmaktayım
 ![Web Yazılım, UX,UI Tasarım ve Dijital Medya Uzmanlığı Yapmaktayım](https://www.recepemreercetin.com/wp-content/uploads/2021/11/ree-gif.gif)
+
 10 yılı aşkın süredir çeşitli firmalarda yazılım, tasarım ve dijital medya alanlarında profesyonel hizmetler vermiş bulunmaktayım. Son 4 yıldır kendi firmam ile ulusal ve uluslararası çalışmalar yapmaktayım. Her ay Instagram hesabımda yaptığım çekilişler ile bir talihliye 1 saat birebir danışmanlık yapmaktayım. Buradan sizlere yazılım alanında gelişmeniz için çeşitli içerikler paylaşacağım.
 
 **Skills:** *PHP / JS / HTML / CSS / .NET* 
