@@ -4,7 +4,7 @@
 
 10 yılı aşkın süredir çeşitli firmalarda yazılım, tasarım ve dijital medya alanlarında profesyonel hizmetler vermiş bulunmaktayım. Son 4 yıldır kendi firmam ile ulusal ve uluslararası çalışmalar yapmaktayım. Her ay Instagram hesabımda yaptığım çekilişler ile bir talihliye 1 saat birebir danışmanlık yapmaktayım. Buradan sizlere yazılım alanında gelişmeniz için çeşitli içerikler paylaşacağım.
 
-**Skills:** *PHP / JS / HTML / CSS / .NET* 
+**Kullandığım Teknolojiler:** *PHP / JS / HTML / CSS / .NET / MYSQL / MSSQL / ANGULAR JS* 
 
 - 💻 Yazılıma Başlamak İsteyen Genç Dostlar Öncelikle Algoritma ce Temel Programlama Öğrenin Sonrasında Yazılım İçin Alan ve Dil Seçin Lütfen!
 - 🔭 [Ücretsiz Danışmanlık Çekilişleri](https://www.instagram.com/reercetin/)  
