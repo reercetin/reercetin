@@ -1,5 +1,5 @@
 ### Merhaba👋, Ben Recep Emre
-#### 🖥 Web Geliştirici | 📲 UX-UI Tasarımcı |  📈 Dijital Medya Uzmanı | 🎮 Oyun Tasarımcısı  
+#### 🖥 Yazılım Geliştirici | 📲 UX-UI Tasarımcı |  📈 Dijital Medya Uzmanı | 🎮 Oyun Tasarımcısı  
 
 Merhaba, ben Recep Emre. Uzun senelerdir bir çok farklı sektöre freelance ve proje bazlı olarak yazılım, tasarım, dijital medya, teknik alt yapı vb. alanlarda projeler ürettim ve danışmanlıklar verdim. Aktif olarak freelance ve proje bazlı olarak birçok sektöre ihtiyaca özel projeler geliştirmekte ve danışmanlıklar vermekteyim. Ayrıca Compiler Creative Works ismini verdiğim oluşumumda bir çok farklı sektörün kullanımına uygun projeler üretip firmaların ve girişimcilerin üretkenliklerini artırmalarına ve tam potansiyellerini ortaya çıkarmalarına yardımcı olmaktayım. Bilgiler; - Web Geliştirme (PHP, .NET, Javascript, HTML, CSS, Bootstrap, Material UI, Semantic UI, JQuery) - UX - UI Tasarımı (Figma, Adobe XD) - Dijital Pazarlama (Google Analytics, Google Adwords, Google Tag Manager, Meta Business, Tiktok Business, Twitter Ads, Criteo Ads) - Oyun Geliştirme (Unreal Engine) - Karakter ve Level Tasarımı (Photoshop, Illustrator, Substance Painter, Substance Designer, Maya, Zbrush, Blender, 3DS Max) - CMS (Wordpress, Magento, Joomla, Opencart)
 
