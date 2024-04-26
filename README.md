@@ -1,4 +1,4 @@
-### Merhaba👋, Ben Recep Emre
+### Hello👋 I am Recep Emre (Merhaba👋, Ben Recep Emre)
 #### Game Designer | UX Engineer-Designer | Growth Hacker | Developer | Content Creator
 
 [EN] Hello, I am Recep Emre. For many years, I have produced freelance and project-based software, design, digital media, technical infrastructure, etc. projects and consultancy in many different sectors. I actively focused my career on the game industry and started to develop projects in this field. I also provide services and consultancy in areas such as Game Design, Game Development, Game Art, User Experience Analysis and Design, Community Management, Game Project Management, UI Design, Website Development, Game Studio Setup and Management, Social Media and Digital Marketing, Localization, Creative Content Production, Merch Product Marketing. I also help companies and entrepreneurs to increase their productivity and unlock their full potential by producing projects suitable for the use of the game industry.
