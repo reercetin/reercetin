@@ -1,17 +1,89 @@
 ### Hello👋 I am Recep Emre (Merhaba👋, Ben Recep Emre)
-#### UX Engineer | Project Manager | Product Manager | Growth Hacker | Game Designer | Prompt Engineer | GUI-UI Designer | Developer | Analyst 
+#### Product and Project Manager | UX Engineer | Growth and Digital Strategist | Technical Integration Consultant | Educator & Content Creator
 
-[EN] Hello, I am Recep Emre. For many years, I have worked as a freelancer in various sectors, producing and consulting projects in the fields of software, design, digital media and technical infrastructure. I am passionate about multidisciplinary work and using different disciplines together. I received academic training in my areas of expertise and developed myself with national and international certificates. My interest in video games is as high as my interest in my areas of expertise, so I realized that game technologies and techniques provide more creative innovations by bringing different perspectives to projects, and at some point in my career, I started to learn these technologies at a professional level and use them in my own areas of expertise. If I need to list my professional business specializations and services in a broad sense, I can list areas such as User Experience Engineering, Project Management, Product Management, User Experience Analysis and Design, Game Design, GUI-UI Design, Website Development, Web Project Development, Growth Hacking, Data-Driven Strategy Development, Business Analysis, QA Testing, Prompt Engineering and Creative Content Production. 
+[EN] [EN] Hello, I'm Recep Emre Erçetin. I'm a multidisciplinary professional who combines technology, design, strategy, and training. I've led numerous projects across various industries as a UX Engineer, Product & Project Manager, Growth Strategist, Technical Integration Consultant, Trainer, and Content Creator. Throughout my career, I've worked on a wide range of topics, from software development and user experience engineering to digital marketing strategies and technical system architecture. My knowledge, supported by national and international certifications, encompasses areas such as user experience analysis and design, web and application development, data-driven strategy development, QA testing, prompt engineering, and creative content creation. I also offer gamification-based training and consulting services to help individuals and companies maximize their potential. I continue to share knowledge by creating content in my areas of expertise on my YouTube channel, Instagram page, and other digital platforms.
 
-I also provide gamification-based trainings and consultancy in all of my areas of expertise in order for individuals and companies to fully utilize their potential and develop themselves and their businesses. Apart from these professional fields, I produce video content on my personal Youtube channel, various visual content on my Instagram account and active content in my fields on various social media by using my trainer aspect in order to benefit people and to deliver the right information to people in the simplest way. I have also established an organization called Compiler Creative Works and I am developing projects with my expert friends around me.
+### 💻 Software & Technical Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MsSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-Information; Game Development; Unreal Engine, Unity, Substance Painter, Substance Designer, Maya, Zbrush, Blender, Articy Draft, Miro, Nuclino, FMOD Design; Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator, Adobe Premier Digital Media; Google Analytics, Google Ads, Google Tag, Meta Ads, Tiktok Ads, Twitter Ads, Criteo Ads Software; PHP, Javascript, C++, Python, HTML, CSS, Bootstrap, Material UI, Semantic UI, JQuery, MySQL-MsSQL CMS; Wordpress, Magento, Joomla, Opencart Business Analysis; Agile, Scrum, Jira Sound Design; Logic Pro X, Ableton Live
+### 🎨 Design & UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
-[TR] Merhaba, ben Recep Emre. Uzun yıllardır çeşitli sektörlerde freelance olarak yazılım, tasarım, dijital medya ve teknik alt yapı alanlarında projeler üretip danışmanlık yaptım. Multidisipliner çalışma ve farklı disiplinleri bir arada kullanma konusunda tutkuluyum. Uzmanlık alanlarımda akademik eğitimler aldım ve ulusal, uluslararası sertifikalarla kendimi geliştirdim. Video oyunlarına olan ilgim, uzmanlık alanlarıma olan ilgim kadar yüksektir bu sebeple oyun teknolojilerinin ve tekniklerinin projelere farklı bakış açıları kazandırarak daha yaratıcı inovasyonlar sağladığını fark ederek kariyerimin bir noktasında bu teknolojileri profesyonel seviyede öğrenip kendi uzmanlık alanlarımda kullanmaya başladım. Geniş anlamda profesyonel iş uzmanlıklarımı ve hizmetlerimi sıralamam gerekirse Kullanıcı Deneyimi Mühendisliği, Proje Yöneticiliği, Ürün Yöneticiliği, Kullanıcı Deneyimi Analizi ve Tasarımı, Oyun Tasarımı, GUI-UI Tasarım, Websitesi Geliştirme, Web Projesi Geliştirme, Growth Hacking, Veriye Dayalı Strateji Geliştirme, İş Analizi, QA Test, Prompt Engineering ve Yaratıcı İçerik Üretimi gibi alanları sıralayabilirim. 
+### 📊 Digital Media & Marketing
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![Twitter Ads](https://img.shields.io/badge/Twitter_Ads-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![Criteo Ads](https://img.shields.io/badge/Criteo_Ads-FF6600?style=for-the-badge&logo=criteo&logoColor=white)
 
-Ayrıca uzmanlık alanlarımın tamamında bireylerin ve firmaların potansiyellerini tam olarak kullanabilmeleri ve gerek kendileri gerekse işlerini geliştirmeleri adına oyunlaştırma temelli eğitimler ve danışmanlıklar vermekteyim. Bu profesyonel alanlarımın dışında insanlara fayda sağlamak ve insanlara doğru bilgiyi en basit şekilde ulaştırmak adına eğitmenlik yönümü de kullanarak kişisel Youtube kanalımda video içerikleri, Instagram hesabımda çeşitli görsel içerikler ve çeşitli sosyal medyalarda alanlarımda aktif içerikler üretmekteyim. Ayrıca Compiler Creative Works isimli bir oluşum kurmuş ve bu oluşum içerisinde de çevremdeki uzman dostlarımla projeler geliştirmekteyim.
+### 🤖 AI & Prompt Engineering
+![AI Integration](https://img.shields.io/badge/AI_Integration-FF6F00?style=for-the-badge&logo=artificialintelligence&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4A148C?style=for-the-badge&logo=openai&logoColor=white)
 
-Bilgiler; Oyun Geliştirme; Unreal Engine, Unity, Substance Painter, Substance Designer, Maya, Zbrush, Blender, Articy Draft, Miro, Nuclino, FMOD Tasarım; Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator, Adobe Premier Dijital Medya; Google Analytics, Google Ads, Google Tag, Meta Ads, Tiktok Ads, Twitter Ads, Criteo Ads Yazılım;  PHP, Javascript, C++, Python, HTML, CSS, Bootstrap, Material UI, Semantic UI, JQuery, MySQL-MsSQL CMS; Wordpress, Magento, Joomla, Opencart İş Analizi; Agile, Scrum, Jira Ses Tasarımı; Logic Pro X, Ableton Live
+### 📈 Project & Business Management
+![Agile](https://img.shields.io/badge/Agile-1F8ACB?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+![Nuclino](https://img.shields.io/badge/Nuclino-DC143C?style=for-the-badge&logo=nuclino&logoColor=white)
+
+[TR] Merhaba, ben Recep Emre Erçetin. Teknoloji, tasarım, strateji ve eğitimi bir araya getiren çok disiplinli bir profesyonelim. UX Mühendisi, Ürün & Proje Yöneticisi, Büyüme Stratejisti, Teknik Entegrasyon Danışmanı, Eğitmen ve İçerik Üreticisi olarak farklı sektörlerde birçok projeye liderlik ettim. Kariyerim boyunca yazılım geliştirmeden kullanıcı deneyimi mühendisliğine, dijital pazarlama stratejilerinden teknik sistem mimarisine kadar uzanan geniş bir yelpazede çalıştım. Ulusal ve uluslararası sertifikalarla desteklenen bilgi birikimim; kullanıcı deneyimi analizi ve tasarımı, web ve uygulama geliştirme, veriye dayalı strateji üretimi, QA test, prompt engineering ve yaratıcı içerik üretimi gibi alanları kapsıyor. Ayrıca, bireylerin ve firmaların potansiyellerini en üst düzeye çıkarabilmeleri için oyunlaştırma temelli eğitimler ve danışmanlık hizmetleri sunuyorum. YouTube kanalım, Instagram sayfam ve diğer dijital platformlarda; uzmanlık alanlarıma dair içerikler üreterek bilgi paylaşımını sürdürüyorum.
+
+### 💻 Yazılım ve Teknik Geliştirme
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MsSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 🎨 Tasarım & UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+
+### 📊 Dijital Medya & Pazarlama
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![Twitter Ads](https://img.shields.io/badge/Twitter_Ads-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![Criteo Ads](https://img.shields.io/badge/Criteo_Ads-FF6600?style=for-the-badge&logo=criteo&logoColor=white)
+
+### 🤖 AI & Prompt Engineering
+![AI Integration](https://img.shields.io/badge/AI_Integration-FF6F00?style=for-the-badge&logo=artificialintelligence&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4A148C?style=for-the-badge&logo=openai&logoColor=white)
+
+### 📈 Proje & İş Yönetimi
+![Agile](https://img.shields.io/badge/Agile-1F8ACB?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+![Nuclino](https://img.shields.io/badge/Nuclino-DC143C?style=for-the-badge&logo=nuclino&logoColor=white)
 
 **Kullandığım Teknolojiler (Technologies I Use):** *PHP, C++, Javascript, Python, HTML, CSS, Bootstrap, Material UI, Semantic UI, JQuery, Figma, Adobe XD, Google Analytics, Google Adwords, Google Tag Manager, Meta Business, Tiktok Business, Twitter Ads, Criteo Ads, Unreal Engine, Photoshop, Illustrator, Substance Painter, Substance Designer, Maya, Zbrush, Blender, 3DS Max, Wordpress, Magento, Joomla, Opencart* 
 
