@@ -1,13 +1,13 @@
 <!-- TYPING ANIMATION HEADER -->
 <p align="center">
   <a href="https://github.com/reercetin">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Recep+Emre+Er%C3%A7etin+%F0%9F%91%8B;Karma%C5%9F%C4%B1k+olan%C4%B1+sadele%C5%9Ftiririm.;I+make+the+complex+simple.;Software+%E2%80%A2+AI+%E2%80%A2+Games+%E2%80%A2+UX+%E2%80%A2+Strategy" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Recep+Emre+Er%C3%A7etin+%F0%9F%91%8B;Karma%C5%9F%C4%B1k+olan%C4%B1+sadele%C5%9Ftiririm.;I+make+the+complex+simple.;Software+%E2%80%A2+AI+%E2%80%A2+UX+%E2%80%A2+Strategy+%E2%80%A2+Content" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <b>Creator & Consultant — turning the complex into the simple</b><br>
-  <sub>Software & AI · Game Design · UX · Digital Strategy · Content</sub>
+  <sub>Software & AI · UX · Digital Strategy · Content</sub>
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 
 Hello, I'm **Recep Emre Erçetin**, a multidisciplinary **creator and consultant** who takes complex things apart and rebuilds them in their simplest, most usable form. That single approach is the thread connecting everything I do.
 
-I work across **software and artificial intelligence, game design and game technologies, user experience (UX), and digital strategy.** These fields may look different, but I approach all of them through the same lens: **understand, simplify, and turn into something that works.** For me, being multidisciplinary isn't a lack of focus — it's a method.
+I work across **software and artificial intelligence, user experience (UX), and digital strategy.** These fields may look different, but I approach all of them through the same lens: **understand, simplify, and turn into something that works.** For me, being multidisciplinary isn't a lack of focus — it's a method.
 
-My roots are technical. Over the years I've built across software development, UX engineering, web and application development, data-driven strategy, and system architecture, supported by national and international certifications. Today, a growing part of how I produce is **directing artificial intelligence as a production partner** — orchestrating the right tools to turn an idea into a working product. AI doesn't replace the work or the human touch; managed well, it amplifies what I create and saves time and resources.
+My roots are technical. Over the years I've built across software development, UX engineering, web and application development, data-driven strategy, and system architecture, supported by national and international certifications. I'm also genuinely passionate about games, and I've studied game technologies through hands-on training — exploring tools like Unreal Engine as part of that interest. Today, a growing part of how I produce is **directing artificial intelligence as a production partner** — orchestrating the right tools to turn an idea into a working product. AI doesn't replace the work or the human touch; managed well, it amplifies what I create and saves time and resources.
 
 Beyond building, I **share what I know** — creating content that breaks down complex topics on YouTube, Instagram, and other platforms, and offering gamification-based training and consulting for individuals and brands.
 
@@ -35,9 +35,9 @@ Beyond building, I **share what I know** — creating content that breaks down c
 
 Merhaba, ben **Recep Emre Erçetin**. Karmaşık olanı çözüp en sade haliyle ortaya koyan, çok disiplinli bir **üretici ve danışmanım.** Yaptığım her işi birbirine bağlayan tek bir yaklaşım var: karmaşığı al, anla, sadeleştir ve işe yarar hale getir.
 
-**Yazılım ve yapay zeka, oyun tasarımı ve oyun teknolojileri, kullanıcı deneyimi (UX) ve dijital strateji** alanlarında çalışıyorum. Bu alanlar farklı görünse de hepsine aynı mercekle bakıyorum. Benim için çok yönlülük bir dağınıklık değil, bir yöntem.
+**Yazılım ve yapay zeka, kullanıcı deneyimi (UX) ve dijital strateji** alanlarında çalışıyorum. Bu alanlar farklı görünse de hepsine aynı mercekle bakıyorum. Benim için çok yönlülük bir dağınıklık değil, bir yöntem.
 
-Köklerim teknik. Yıllar içinde yazılım geliştirme, UX mühendisliği, web ve uygulama geliştirme, veriye dayalı strateji ve sistem mimarisi alanlarında üretim yaptım; bilgi birikimim ulusal ve uluslararası sertifikalarla destekleniyor. Bugün üretimimin giderek büyüyen bir kısmında **yapay zekayı bir üretim ortağı gibi yönetiyorum** — doğru araçları orkestra gibi yöneterek bir fikri çalışan bir ürüne dönüştürüyorum. Yapay zeka, işin yerini alan değil; doğru yönetildiğinde zamandan ve kaynaktan kazandıran, üretimi güçlendiren bir araç.
+Köklerim teknik. Yıllar içinde yazılım geliştirme, UX mühendisliği, web ve uygulama geliştirme, veriye dayalı strateji ve sistem mimarisi alanlarında üretim yaptım; bilgi birikimim ulusal ve uluslararası sertifikalarla destekleniyor. Oyunlara da büyük bir ilgim var; oyun teknolojileri üzerine uygulamalı eğitimler aldım ve Unreal Engine gibi araçları bu ilgiyle keşfediyorum. Bugün üretimimin giderek büyüyen bir kısmında **yapay zekayı bir üretim ortağı gibi yönetiyorum** — doğru araçları orkestra gibi yöneterek bir fikri çalışan bir ürüne dönüştürüyorum. Yapay zeka, işin yerini alan değil; doğru yönetildiğinde zamandan ve kaynaktan kazandıran, üretimi güçlendiren bir araç.
 
 Üretmenin yanında **bildiğimi paylaşıyorum** — karmaşık konuları sadeleştirerek anlattığım içerikler üretiyor, bireyler ve kurumlar için oyunlaştırma temelli eğitimler ve danışmanlık sunuyorum.
 
@@ -59,7 +59,7 @@ Köklerim teknik. Yıllar içinde yazılım geliştirme, UX mühendisliği, web 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MsSQL](https://img.shields.io/badge/MsSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 🎮 Game Design & Technologies
+### 🎮 Game Technologies
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white)
