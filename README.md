@@ -1,13 +1,13 @@
 <!-- TYPING ANIMATION HEADER -->
 <p align="center">
   <a href="https://github.com/reercetin">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Recep+Emre+Er%C3%A7etin+%F0%9F%91%8B;Karma%C5%9F%C4%B1k+olan%C4%B1+sadele%C5%9Ftiririm.;I+make+the+complex+simple.;Software+%E2%80%A2+AI+%E2%80%A2+UX+%E2%80%A2+Strategy+%E2%80%A2+Content" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hello%2C%20I%27m%20Recep%20Emre%20Er%C3%A7etin%20%F0%9F%91%8B%3BStrategy-Led%20Design%20%7C%20Technology-Driven%20Growth%3BSoftware%20%E2%80%A2%20AI%20%E2%80%A2%20UX%20%E2%80%A2%20Product%20%E2%80%A2%20Growth" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <b>Creator & Consultant — turning the complex into the simple</b><br>
-  <sub>Software & AI · UX · Digital Strategy · Content</sub>
+  <b>Developer & Consultant — Strategy-Led Design, Technology-Driven Growth</b><br>
+  <sub>Software & AI · UX · Product & Project Management · Digital Strategy</sub>
 </p>
 
 <p align="center">
@@ -19,13 +19,13 @@
 
 ## 🇬🇧 About Me
 
-Hello, I'm **Recep Emre Erçetin**, a multidisciplinary **creator and consultant** who takes complex things apart and rebuilds them in their simplest, most usable form. That single approach is the thread connecting everything I do.
+Hello, I'm **Recep Emre Erçetin**, a multidisciplinary **developer and consultant** who brings strategy, design, and technology together as a single whole. I place strategy and solid design at the core of every project, guided by a **"Strategy-Led Design, Technology-Driven Growth"** approach.
 
-I work across **software and artificial intelligence, user experience (UX), and digital strategy.** These fields may look different, but I approach all of them through the same lens: **understand, simplify, and turn into something that works.** For me, being multidisciplinary isn't a lack of focus — it's a method.
+I work across **software and artificial intelligence, user experience (UX), product and project management, and digital strategy.** These fields may look different, but I bring them together within one framework that serves measurable growth. For me, being multidisciplinary isn't a lack of focus — it's a method.
 
-My roots are technical. Over the years I've built across software development, UX engineering, web and application development, data-driven strategy, and system architecture, supported by national and international certifications. I'm also genuinely passionate about games, and I've studied game technologies through hands-on training — exploring tools like Unreal Engine as part of that interest. Today, a growing part of how I produce is **directing artificial intelligence as a production partner** — orchestrating the right tools to turn an idea into a working product. AI doesn't replace the work or the human touch; managed well, it amplifies what I create and saves time and resources.
+My roots are technical. Over the years I've built across software development, UX engineering, web and application development, data-driven strategy, and system architecture, supported by national and international certifications. Today, a growing part of how I produce is **directing artificial intelligence as a production partner** — orchestrating the right tools to turn an idea into a working product. AI doesn't replace the work or the human touch; managed well, it amplifies what I create and saves time and resources, letting me deliver work that would normally require far more time, budget, and people.
 
-Beyond building, I **share what I know** — creating content that breaks down complex topics on YouTube, Instagram, and other platforms, and offering gamification-based training and consulting for individuals and brands.
+I've guided dozens of brands from the first spark of an idea to a scalable product, combining strategic decisions with flawless technical execution — turning that same knowledge into both my own products and the growth of the brands I work with.
 
 > 💡 *Young friends starting out in software: first learn algorithms and basic programming, then choose your area. Depth beats breadth at the start.*
 
@@ -33,13 +33,13 @@ Beyond building, I **share what I know** — creating content that breaks down c
 
 ## 🇹🇷 Hakkımda
 
-Merhaba, ben **Recep Emre Erçetin**. Karmaşık olanı çözüp en sade haliyle ortaya koyan, çok disiplinli bir **üretici ve danışmanım.** Yaptığım her işi birbirine bağlayan tek bir yaklaşım var: karmaşığı al, anla, sadeleştir ve işe yarar hale getir.
+Merhaba, ben **Recep Emre Erçetin**. Strateji, tasarım ve teknolojiyi tek bir bütünde birleştiren, çok disiplinli bir **geliştirici ve danışmanım.** İşimin merkezine her zaman stratejiyi ve sağlam bir tasarımı koyarım; yaklaşımımı **"Strategy-Led Design, Technology-Driven Growth"** ilkesi özetler.
 
-**Yazılım ve yapay zeka, kullanıcı deneyimi (UX) ve dijital strateji** alanlarında çalışıyorum. Bu alanlar farklı görünse de hepsine aynı mercekle bakıyorum. Benim için çok yönlülük bir dağınıklık değil, bir yöntem.
+**Yazılım ve yapay zeka, kullanıcı deneyimi (UX), ürün ve proje yönetimi ve dijital strateji** alanlarında çalışıyorum. Bu alanlar farklı görünse de hepsini, ölçülebilir bir büyümeye hizmet eden tek bir çerçevede ele alıyorum. Benim için çok yönlülük bir dağınıklık değil, bir yöntem.
 
-Köklerim teknik. Yıllar içinde yazılım geliştirme, UX mühendisliği, web ve uygulama geliştirme, veriye dayalı strateji ve sistem mimarisi alanlarında üretim yaptım; bilgi birikimim ulusal ve uluslararası sertifikalarla destekleniyor. Oyunlara da büyük bir ilgim var; oyun teknolojileri üzerine uygulamalı eğitimler aldım ve Unreal Engine gibi araçları bu ilgiyle keşfediyorum. Bugün üretimimin giderek büyüyen bir kısmında **yapay zekayı bir üretim ortağı gibi yönetiyorum** — doğru araçları orkestra gibi yöneterek bir fikri çalışan bir ürüne dönüştürüyorum. Yapay zeka, işin yerini alan değil; doğru yönetildiğinde zamandan ve kaynaktan kazandıran, üretimi güçlendiren bir araç.
+Köklerim teknik. Yıllar içinde yazılım geliştirme, UX mühendisliği, web ve uygulama geliştirme, veriye dayalı strateji ve sistem mimarisi alanlarında üretim yaptım; bilgi birikimim ulusal ve uluslararası sertifikalarla destekleniyor. Bugün üretimimin giderek büyüyen bir kısmında **yapay zekayı bir üretim ortağı gibi yönetiyorum** — doğru araçları orkestra gibi yöneterek bir fikri çalışan bir ürüne dönüştürüyorum. Yapay zeka, işin yerini alan değil; doğru yönetildiğinde zamandan ve kaynaktan kazandıran, üretimi güçlendiren bir güç.
 
-Üretmenin yanında **bildiğimi paylaşıyorum** — karmaşık konuları sadeleştirerek anlattığım içerikler üretiyor, bireyler ve kurumlar için oyunlaştırma temelli eğitimler ve danışmanlık sunuyorum.
+Onlarca markaya fikir aşamasından ölçeklenebilir bir ürüne kadar rehberlik ettim; stratejik kararları teknik uygulamayla birleştirerek aynı bilgiyi hem kendi ürünlerime hem de markaların büyümesine dönüştürüyorum.
 
 ---
 
@@ -59,7 +59,7 @@ Köklerim teknik. Yıllar içinde yazılım geliştirme, UX mühendisliği, web 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MsSQL](https://img.shields.io/badge/MsSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 🎮 Game Technologies
+### 🧊 Real-Time 3D & Production
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white)
@@ -145,5 +145,5 @@ Köklerim teknik. Yıllar içinde yazılım geliştirme, UX mühendisliği, web 
 </p>
 
 <p align="center">
-  <i>⭐️ Karmaşık olanı sadeleştirmek için buradayım. / Here to make the complex simple.</i>
+  <i>⭐️ Strategy-Led Design, Technology-Driven Growth.</i>
 </p>
