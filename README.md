@@ -19,27 +19,31 @@
 
 ## 🇬🇧 About Me
 
-Hello, I'm **Recep Emre Erçetin**, a multidisciplinary **developer and consultant** who brings strategy, design, and technology together as a single whole. I place strategy and solid design at the core of every project, guided by a **"Strategy-Led Design, Technology-Driven Growth"** approach.
+Hello, I'm **Recep Emre Erçetin** — a multidisciplinary **developer and consultant** who brings strategy, design, and technology together as a single whole. I don't see these as separate disciplines stacked on top of each other; I see them as different views of the same problem. That's the idea behind my approach: **Strategy-Led Design, Technology-Driven Growth.** First the right strategy and a solid design, then the technology that turns that foundation into measurable growth.
 
-I work across **software and artificial intelligence, user experience (UX), product and project management, and digital strategy.** These fields may look different, but I bring them together within one framework that serves measurable growth. For me, being multidisciplinary isn't a lack of focus — it's a method.
+I work across **software and artificial intelligence, user experience (UX), product and project management, and digital strategy.** These fields may look unrelated from the outside, but I approach all of them through one lens: understand the real problem, shape a strategy around it, and build something that genuinely works. For me, being multidisciplinary has never been a lack of focus — it's a method. A brand's problem rarely fits into a single box, so I don't look at it through a single window either.
 
-My roots are technical. Over the years I've built across software development, UX engineering, web and application development, data-driven strategy, and system architecture, supported by national and international certifications. Today, a growing part of how I produce is **directing artificial intelligence as a production partner** — orchestrating the right tools to turn an idea into a working product. AI doesn't replace the work or the human touch; managed well, it amplifies what I create and saves time and resources, letting me deliver work that would normally require far more time, budget, and people.
+**My roots are technical, and they run deep.** Over the years I've built across software development, UX engineering, web and application development, data-driven strategy, and system architecture — backed by national and international certifications. What sets my work apart isn't just planning a strategy; it's being able to write the code and design that bring that strategy to life, from the same hand. When the person who defines the strategy is also the one who implements it, the usual gap between "the plan" and "the product" simply never forms. The result is faster, more consistent, and far more predictable.
 
-I've guided dozens of brands from the first spark of an idea to a scalable product, combining strategic decisions with flawless technical execution — turning that same knowledge into both my own products and the growth of the brands I work with.
+A growing part of how I produce today is **directing artificial intelligence as a production partner.** I orchestrate the right tools to turn an idea into a working product — treating AI not as something that replaces the work or the human touch, but as a force that, guided well, saves time and resources while amplifying what I create. This is what lets me deliver work that would normally require far more time, budget, and an entire team — on my own, quickly and efficiently.
 
-> 💡 *Young friends starting out in software: first learn algorithms and basic programming, then choose your area. Depth beats breadth at the start.*
+I've guided **dozens of brands** from the first spark of an idea all the way to a scalable product, combining strategic decisions with flawless technical execution. Today I turn that same knowledge into two things at once: **my own products, and the sustainable growth of the brands I work with.** My goal in every project is never just visibility — it's measurable success, real progress, and long-term impact.
+
+> 💡 *A note for young developers just starting out: first learn algorithms and the fundamentals of programming, then choose your area. At the beginning, depth beats breadth — build a strong core, and everything else becomes easier to reach.*
 
 ---
 
 ## 🇹🇷 Hakkımda
 
-Merhaba, ben **Recep Emre Erçetin**. Strateji, tasarım ve teknolojiyi tek bir bütünde birleştiren, çok disiplinli bir **geliştirici ve danışmanım.** İşimin merkezine her zaman stratejiyi ve sağlam bir tasarımı koyarım; yaklaşımımı **"Strategy-Led Design, Technology-Driven Growth"** ilkesi özetler.
+Merhaba, ben **Recep Emre Erçetin** — strateji, tasarım ve teknolojiyi tek bir bütünde birleştiren, çok disiplinli bir **geliştirici ve danışmanım.** Bu alanları üst üste yığılmış ayrı uzmanlıklar olarak değil, aynı problemin farklı görünümleri olarak görüyorum. Yaklaşımımın özü de bu: **Strategy-Led Design, Technology-Driven Growth.** Önce doğru strateji ve sağlam bir tasarım, ardından bu temeli ölçülebilir bir büyümeye dönüştüren teknoloji.
 
-**Yazılım ve yapay zeka, kullanıcı deneyimi (UX), ürün ve proje yönetimi ve dijital strateji** alanlarında çalışıyorum. Bu alanlar farklı görünse de hepsini, ölçülebilir bir büyümeye hizmet eden tek bir çerçevede ele alıyorum. Benim için çok yönlülük bir dağınıklık değil, bir yöntem.
+**Yazılım ve yapay zeka, kullanıcı deneyimi (UX), ürün ve proje yönetimi ve dijital strateji** alanlarında çalışıyorum. Bu alanlar dışarıdan birbirinden kopuk görünse de, hepsine tek bir mercekle yaklaşıyorum: asıl sorunu anla, etrafına bir strateji kur ve gerçekten işe yarayan bir şey inşa et. Benim için çok yönlülük hiçbir zaman bir dağınıklık olmadı — bir yöntem oldu. Bir markanın sorunu nadiren tek bir kutuya sığar; ben de ona tek bir pencereden bakmıyorum.
 
-Köklerim teknik. Yıllar içinde yazılım geliştirme, UX mühendisliği, web ve uygulama geliştirme, veriye dayalı strateji ve sistem mimarisi alanlarında üretim yaptım; bilgi birikimim ulusal ve uluslararası sertifikalarla destekleniyor. Bugün üretimimin giderek büyüyen bir kısmında **yapay zekayı bir üretim ortağı gibi yönetiyorum** — doğru araçları orkestra gibi yöneterek bir fikri çalışan bir ürüne dönüştürüyorum. Yapay zeka, işin yerini alan değil; doğru yönetildiğinde zamandan ve kaynaktan kazandıran, üretimi güçlendiren bir güç.
+**Köklerim teknik ve derin.** Yıllar içinde yazılım geliştirme, UX mühendisliği, web ve uygulama geliştirme, veriye dayalı strateji ve sistem mimarisi alanlarında üretim yaptım; bu birikim ulusal ve uluslararası sertifikalarla destekleniyor. Beni farklı kılan yalnızca bir strateji planlamak değil; o stratejiyi hayata geçiren kodu ve tasarımı da aynı elden yürütebilmek. Bir işin stratejisini kuran kişiyle onu uygulayan kişi aynı olduğunda, "plan" ile "ürün" arasındaki o klasik boşluk hiç oluşmuyor. Sonuç; daha hızlı, daha tutarlı ve çok daha öngörülebilir oluyor.
 
-Onlarca markaya fikir aşamasından ölçeklenebilir bir ürüne kadar rehberlik ettim; stratejik kararları teknik uygulamayla birleştirerek aynı bilgiyi hem kendi ürünlerime hem de markaların büyümesine dönüştürüyorum.
+Bugün üretimimin giderek büyüyen bir kısmında **yapay zekayı bir üretim ortağı gibi yönetiyorum.** Doğru araçları orkestra gibi yöneterek bir fikri çalışan bir ürüne dönüştürüyorum — yapay zekayı işin ya da insan dokunuşunun yerini alan bir şey olarak değil, doğru yönetildiğinde zamandan ve kaynaktan kazandıran, ürettiğimi güçlendiren bir güç olarak görüyorum. İşte bu sayede normalde çok daha fazla zaman, bütçe ve koca bir ekip gerektiren işleri tek başıma, hızlı ve verimli biçimde hayata geçiriyorum.
+
+Kariyerim boyunca **onlarca markaya**, bir fikrin ilk kıvılcımından ölçeklenebilir bir ürüne dönüşmesine kadar rehberlik ettim; stratejik kararları kusursuz bir teknik uygulamayla birleştirdim. Bugün aynı bilgiyi aynı anda iki şeye dönüştürüyorum: **kendi ürünlerime ve birlikte çalıştığım markaların sürdürülebilir büyümesine.** Her projedeki hedefim asla yalnızca görünürlük değil; ölçülebilir başarı, gerçek gelişim ve uzun vadeli etki.
 
 ---
 
@@ -104,16 +108,19 @@ Onlarca markaya fikir aşamasından ölçeklenebilir bir ürüne kadar rehberlik
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=reercetin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=reercetin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reercetin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reercetin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=reercetin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reercetin&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reercetin&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=reercetin&theme=tokyonight&no-frame=true&no-bg=false&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies" />
 </p>
 
 ---
