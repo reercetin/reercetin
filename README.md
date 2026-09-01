@@ -147,8 +147,7 @@ Kariyerim boyunca **onlarca markaya**, bir fikrin ilk kıvılcımından ölçekl
 ---
 
 <p align="center">
-  📫 <b>Professional Collaborations:</b> <a href="mailto:contact@recepemreercetin.com">contact@recepemreercetin.com</a><br>
-  💬 <b>Questions:</b> <a href="mailto:iletisim@recepemreercetin.com">iletisim@recepemreercetin.com</a>
+  📫 <b>Professional Collaborations and Questions:</b> <a href="mailto:info@recepemreercetin.com">info@recepemreercetin.com</a><br>
 </p>
 
 <p align="center">
